@@ -10,11 +10,11 @@
    GitHub: [Andre Peregrina](https://github.com/andreperegrina)  
    Facebook:  
    
--  Name:  Arpit Batra
-   Place: Dehradun, India
-   Bio:  I am an aspiring android developer. 
-   GitHub: [Arpit Batra](https://github.com/arpitbatra123) 
-   Facebook:   [Arpit Batra] (https://Facebook.com/arpitbatra123) 
+-  Name:  Arpit Batra  
+   Place: Dehradun, India  
+   Bio:  I am an aspiring android developer.   
+   GitHub: [Arpit Batra](https://github.com/arpitbatra123)  
+   Facebook: [Arpit Batra] (https://Facebook.com/arpitbatra123)  
 
 -  Name: Ashish Gautam  
    Place: Delhi, India  
@@ -27,20 +27,20 @@
    Bio:  Pythonista , Chocoholic ,  Foodie , Web Developer. I turn food into code.
    GitHub: https://github.com/Himanshi-Khandelwal
   
-   Name:  Ana Luísa Dias 
-   Place: Bahia, Brazil 
-   Bio:  I'm an enthusiast for sci-fi, code, technology and ice cream.  
+-  Name: Ana Luísa Dias  
+   Place: Bahia, Brazil  
+   Bio: I'm an enthusiast for sci-fi, code, technology and ice cream.  
    GitHub: [baiana](https://github.com/baiana)  
    Facebook:  
 
--  Name: Onuwa Nnachi Isaac
-   Place: Lafia, Nigeria
-   Bio: Code once, run anywhere.
-   GitHub: [iamonuwa](https://github.com/iamonuwa)
-   Facebook: [iamonuwa](https://facebook.com/iamonuwa)
+-  Name: Onuwa Nnachi Isaac  
+   Place: Lafia, Nigeria  
+   Bio: Code once, run anywhere.  
+   GitHub: [iamonuwa](https://github.com/iamonuwa)  
+   Facebook: [iamonuwa](https://facebook.com/iamonuwa)  
 
 -  Name:  Alexander Yalchik  
-   Place: Zhlobin, Belarus  
+   Place: Zhlobin, Belarus  
    Bio: Coding, reading, have fun  
    GitHub: [Alexander Yalchik](https://github.com/OMGHaveFun)  
    Facebook: -  
